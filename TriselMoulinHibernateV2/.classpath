@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="R:/STS/STS2/SLAM4/Trisel/librairie/jdom-2.0.3/jdom-2.0.3.jar"/>
+	<classpathentry kind="lib" path="R:/STS/STS2/SLAM4/Trisel/librairie/jdom-2.0.3/jdom-2.0.3-contrib.jar"/>
+	<classpathentry kind="lib" path="R:/STS/STS2/SLAM4/Trisel/librairie/jdom-2.0.3/jdom-2.0.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="R:/STS/STS2/SLAM4/Trisel/librairie/jdom-2.0.3/jdom-2.0.3-junit.jar"/>
+	<classpathentry kind="lib" path="R:/STS/STS2/SLAM4/Trisel/librairie/jdom-2.0.3/jdom-2.0.3-sources.jar"/>
+	<classpathentry kind="lib" path="R:/STS/STS2/SLAM4/Trisel/librairie/librairiecomplete/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="R:/STS/STS2/SLAM4/Trisel/librairie/librairiecomplete/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="R:/STS/STS2/SLAM4/Trisel/librairie/librairiecomplete/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="R:/STS/STS2/SLAM4/Trisel/librairie/librairiecomplete/lib/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="R:/STS/STS2/SLAM4/Trisel/librairie/librairiecomplete/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="R:/STS/STS2/SLAM4/Trisel/librairie/librairiecomplete/lib/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="R:/STS/STS2/SLAM4/Trisel/librairie/librairiecomplete/lib/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="R:/STS/STS2/SLAM4/Trisel/librairie/librairiecomplete/lib/hibernate-core.jar"/>
+	<classpathentry kind="lib" path="R:/STS/STS2/SLAM4/Trisel/librairie/librairiecomplete/lib/hibernate-validator.jar"/>
+	<classpathentry kind="lib" path="R:/STS/STS2/SLAM4/Trisel/librairie/librairiecomplete/lib/itextpdf-5.5.6.jar"/>
+	<classpathentry kind="lib" path="R:/STS/STS2/SLAM4/Trisel/librairie/librairiecomplete/lib/javassist-3.4.GA.jar"/>
+	<classpathentry kind="lib" path="R:/STS/STS2/SLAM4/Trisel/librairie/librairiecomplete/lib/javassist-3.9.0.GA.jar"/>
+	<classpathentry kind="lib" path="R:/STS/STS2/SLAM4/Trisel/librairie/librairiecomplete/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="R:/STS/STS2/SLAM4/Trisel/librairie/librairiecomplete/lib/jdom-2.0.3.jar"/>
+	<classpathentry kind="lib" path="R:/STS/STS2/SLAM4/Trisel/librairie/librairiecomplete/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="R:/STS/STS2/SLAM4/Trisel/librairie/librairiecomplete/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="R:/STS/STS2/SLAM4/Trisel/librairie/librairiecomplete/lib/junit-4.6.jar"/>
+	<classpathentry kind="lib" path="R:/STS/STS2/SLAM4/Trisel/librairie/librairiecomplete/lib/mysql-connector-java-3.1.14-bin.jar"/>
+	<classpathentry kind="lib" path="R:/STS/STS2/SLAM4/Trisel/librairie/librairiecomplete/lib/slf4j-api-1.5.6.jar"/>
+	<classpathentry kind="lib" path="R:/STS/STS2/SLAM4/Trisel/librairie/librairiecomplete/lib/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="R:/STS/STS2/SLAM4/Trisel/librairie/librairiecomplete/lib/slf4j-simple-1.5.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
